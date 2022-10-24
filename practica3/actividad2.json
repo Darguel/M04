@@ -1,0 +1,44 @@
+{"students": {
+    "student": {
+        "nacionalidad":"español",
+        "name":"Luis",
+        "surname": "Cornejo",
+        "email": "lcornejo20@jaumebalmes.net",
+        "dni": "32462556p"
+        },
+
+
+    "student": {
+        "nacionalidad":"portugues",
+        "name":"Patricia",
+        "surname": "Valencia",
+        "email": "pvalencia20@jaumebalmes.net",
+        "dni": "15648678J"
+        },
+        
+    "student": {
+        "nacionalidad":"ruso",
+        "name":"Alex",
+        "surname": "Navarro",
+        "email": "anavarro20@jaumebalmes.net",
+        "dni": "15648478G"
+        },
+
+    "student": {
+        "nacionalidad":"aleman",
+        "name":"Aleix",
+        "surname": "Tallet",
+        "email": "atallet@jaumebalmes.net",
+        "dni": "75615456N"
+        },
+
+    "student": {
+        "nacionalidad":"indio",
+        "name":"Harki",
+        "surname": "Singh",
+        "email": "hsingh@jaumebalmes.net",
+        "dni": "78451456Q"
+        }
+    }
+
+}
