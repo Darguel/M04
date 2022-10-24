@@ -1,0 +1,10 @@
+{"bookstore":{
+    "book":{
+        "title":"Harry Potter",
+        "publisher":"J.K. Rowling",
+        "cover":"Tapa dura",
+        "price":"70€"
+    }
+}
+
+}
