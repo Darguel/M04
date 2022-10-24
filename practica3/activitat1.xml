@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Primer jercicio de xml practica 3-->
+<students>
+    <student nacionalidad="espanol">
+        <name>Luis</name>
+        <surname>Cornejo</surname>
+        <email>lconrjeo20@jaumebalmes.net</email>
+        <dni>32462556P<dni>
+    </student>
+    <student nacionalidad="portugues">
+        <name>Patricia</name>
+        <surname>Valencia</surname>
+        <email>pvalencia20@jaumebalmes.net</email>
+        <dni>15648678J</dni>
+    </student>
+    <student nacionalidad="ruso">
+        <name>Alex</name>
+        <surname>Navarro</surname>
+        <email>anavarro20@jaumebalmes.net</email>
+        <dni>15648478G</dni>
+    </student>
+    <student nacionalidad="aleman">
+        <name>Aleix</name>
+        <surname>Tallet</surname>
+        <email>atallet@jaumebalmes.net</email>
+        <dni>75615456N</dni>
+    </student>
+    <student nacionalidad="indio">
+        <name>Harki</name>
+        <surname>Singh</surname>
+        <email>hsingh@jaumebalmes.net</email>
+        <dni>78451456Q</dni>
+    </student>
+</students>
