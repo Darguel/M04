@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--archivo xml de la activitat 4 -->
+<bookstore>
+    <book>
+        <title>Harry Potter</title>
+        <publisher>J.K. Rowling</publisher>
+        <cover>tapa dura</cover>
+        <pricer>70€</pricer>
+    </book>
+</bookstore>
