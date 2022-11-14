@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(236, 207, 207);
+}
+
+caption {
+    text-align: center;
+    color: blue;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+
+table, th, tr, td{
+    border: 2px solid black;
+    font-size: 23px;
+    text-align: center;
+    border-collapse: collapse;
+}
