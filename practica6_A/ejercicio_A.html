@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio A</title>
+</head>
+<body>
+    <form action="archivoExterno.php">
+        <label>Nom</label>
+        <input type="text" id="nom" name="nom" placeholder="el teu nom"><br/><br/>
+        <label>Cognom</label>
+        <input type="text" id="Cognom" name="Cognom" placeholder="el teu cognom"><br/><br/>
+        <label>Edat</label>
+        <input type="number" id="edat" name="edat" placeholder="20"><br/>
+        
+        <!-- Primer seleccion -->
+
+        <p>Cicle formatiu que es vol cursar l'any vinent:</p>         
+        <label>
+            DAM<input type="radio" name="curso" value="dam" checked> 
+        </label>
+        <br/>
+        <label>
+            ASIX<input type="radio" name="curso" value="asix"> 
+        </label>
+        <br/>
+        <label>
+            Altres...<input type="radio" name="curso" value="altres..."> 
+        </label>
+        
+        <!-- Segunda multieleccion -->
+        <p>Marca les teves aficions:</p>
+        <label>Estudiar<input type="checkbox" checked></label><br/>
+        <label>ASIX<input type="checkbox"></label><br/>
+        <label>Llibres<input type="checkbox"></label><br/>
+        <label>Jugar a Magic<input type="checkbox"></label><br/>
+        <label>Fer burilles<input type="checkbox"></label><br/>
+        
+        <label>Altres</label>
+        <textarea name="altres" rows="10" cols="30">Especifica quines...
+        </textarea>
+        <br/><br/>
+
+        <!-- Lista de html -->
+        <label>L'estàndard d'HTML que més m'agrada: </label>
+        <select id="estandar" name="estandar">
+            <option value="html2">HTML 4.01</option>
+            <option value="html2">XHTML 1.0</option>
+            <option selected="true" value="html2">HTML5</option>
+        </select>
+
+    </form>
+</body>
