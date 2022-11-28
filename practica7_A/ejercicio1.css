@@ -1,0 +1,41 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#azul{
+    position: absolute;
+    background-color: lightblue;
+    width: 160px;
+    height: 120px;;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+
+#amarillo{
+    position: relative;
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+#rojo{
+    position: absolute;
+    background-color: red;
+    width: 160px;
+    height: 120px;
+    margin-top: 140px;
+    margin-left: 100px;
+
+}
+
+#verde{
+    position: relative;
+    background-color: aqua;
+    width: 40px;
+    height: 40px;  
+    margin-top: 60px;
+    margin-left: 100px;
+}
