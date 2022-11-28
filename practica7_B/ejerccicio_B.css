@@ -1,0 +1,37 @@
+#contenedor1 {
+    position: absolute;
+    background-color: rgb(242, 255, 0);
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 160px;
+    height: 120px;
+    
+}
+
+#contenedor2 {
+    position: relative;
+    background-color: rgb(16, 43, 244);
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#contenedor3 {
+    position: absolute;
+    background-color: rgb(11, 226, 47);
+    width: 160px;
+    height: 120px;
+    margin-left: 100px;
+    margin-top: 140px;
+}
+
+#contenedor4 {
+    position: relative;
+    background-color: rgb(244, 16, 16);
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 60px;
+    
+}
