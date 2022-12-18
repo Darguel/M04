@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+    float: left;
+}
+.arriba{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+    margin: 0px;
+}
+#boton{
+    margin: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.abajo_izquierda{
+    float: left;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.abajo_derecha{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+footer{
+    margin-top: 5px;
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    float: left;
+}
+#abajo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+#abajo2{
+    padding-bottom: 8px;
+}
