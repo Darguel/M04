@@ -16,8 +16,6 @@ header{
 }
 #boton{
     margin: 0px;
-    padding-bottom: 15px;
-    padding-top: 15px;
     padding-left: 3px;
     padding-right: 3px;
 }
@@ -48,4 +46,9 @@ footer{
 }
 #abajo2{
     padding-bottom: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
